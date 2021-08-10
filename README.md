@@ -1,7 +1,6 @@
-### 👋  Welcome to my GitHub  👋  You are in a good place 😉 
+### Welcome to my GitHub  👋  You are in a good place 😉 
 
-🎓  Recently graduated with OpenClassRooms, I'm proud to present here all my different projects, particulary my last one : Groupomania. 
-In this project n°7, you can have a quick look on all my  skills. 
+🎓  Recently graduated with OpenClassRooms, I'm proud to present here all my different projects, particulary my last one : Groupomania.
 
 🔧  Skills  🔧
 
