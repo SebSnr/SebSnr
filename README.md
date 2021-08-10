@@ -9,4 +9,4 @@ SASS   •   JSON   •   AJAX   •   Git/GitHub   •   API Re
 MongoDB   •   MySQL / SQL   •   Visual Studio   •   SEO   •   Accessibilité
 Responsive design   •   Photoshop   •   Pack Office
 
-📫 linkedin.com/in/sebastiensanner
+📫 www.linkedin.com/in/sebastiensanner
