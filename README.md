@@ -2,9 +2,9 @@
 
 🎓  I'm proud to present here all my different projects, particulary *Groupomania*
 
-🌐  http://sebsnr.fr
-
-📫  www.linkedin.com/in/sebastiensanner
+<br /> =>>> 🌐 http://sebsnr.fr 🌐 <<<= 
+ 
+<br /> 📫   www.linkedin.com/in/sebastiensanner
 
 
    🔨  Skills  🔨
