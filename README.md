@@ -1,9 +1,9 @@
 ### Welcome to my GitHub  👋  
 
-🎓  I'm proud to present here all my different projects, particulary *Groupomania*, a social network available online
+I'm proud to present here all my different projects.
 
 <br /> Please, visit my portfolio website <br /> 
-=>>> 🌐 http://sebsnr.fr 🌐 <<<= 
+=>>> 🌐 https://sebsnr.github.io/sebsnr.fr/ 
  
 <br /> 📫   www.linkedin.com/in/sebastiensanner
 <br />
